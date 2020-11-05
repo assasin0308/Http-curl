@@ -1,0 +1,22 @@
+  {
+    "name"  : "assasin/http-curl",
+    "type"  : "library",
+    "description": "Send your self-defined HTTP request to somewhere,and you do not care anything else",
+    "homepage": "https://github.com/assasin0308/Http-curl",
+    "keywords": ["http", "Curl", "POST", "GET"],
+    "license" : "MIT",
+    "authors": [
+        {
+            "name": "assasin",
+            "email": "assasin0308@sina.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3",
+        "ext-curl": "*"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"assasin\\": "src"}
+    }
+}
