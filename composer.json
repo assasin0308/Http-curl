@@ -7,7 +7,7 @@
     "license" : "MIT",
     "authors": [
         {
-            "name": "assasin",
+            "name": "Bin Shi",
             "email": "assasin0308@sina.com"
         }
     ],
@@ -15,7 +15,6 @@
         "php": ">=5.3",
         "ext-curl": "*"
     },
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {"": "./src"}
     }
