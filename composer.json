@@ -17,6 +17,6 @@
     },
     "minimum-stability": "dev",
     "autoload": {
-        "psr-4": {"assasin\\": "src"}
+        "psr-4": {"": "./src"}
     }
 }
