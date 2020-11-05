@@ -1,5 +1,5 @@
   {
-    "name"  : "assasin/http-curl",
+    "name"  : "assasin/curl-http",
     "type"  : "library",
     "description": "Send your self-defined HTTP request to somewhere,and you do not care anything else",
     "homepage": "https://github.com/assasin0308/Http-curl",
