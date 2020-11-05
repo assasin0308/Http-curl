@@ -4,7 +4,7 @@ Send your self-defined HTTP request to somewhere,and you do not care anything el
 ### How to install ? 
 
 ```shell
-composer require assasin/http-curl
+composer require assasin/curl-http
 ```
 
 ### What happened with this library ?
